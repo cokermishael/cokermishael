@@ -1,4 +1,12 @@
 # MY PERSONAL PROFILE👋
+## MY SKILLS ARE 
+### 1 HTML
+### 2 CSS
+### 3 JAVASCRIPT
+### 4 SQL
+### 5 PYTHON
+
+
 
 <!--
 **cokermishael/cokermishael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
